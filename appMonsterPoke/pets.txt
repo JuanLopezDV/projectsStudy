@@ -1,0 +1,7 @@
+Mascotas:
+        Hipodoge -> Agua
+        Capipepo -> Planta
+        Ratigueya -> Fuego
+        Langostelvis -> Agua y Fuego
+        Tucapalma -> Agua y Planta
+        Pydos -> Planta y Fuego
